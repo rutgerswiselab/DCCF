@@ -16,7 +16,7 @@ Environment requirements can be found in `./requirement.txt`
 
 - **Yelp**: The origin dataset can be found [here](https://www.yelp.com/dataset).
 
-- The data processing code can be found in `./src/data_preprocessing/'
+- The data processing code can be found in `./src/data_preprocessing/`
 
 ## Example to run the codes
 
