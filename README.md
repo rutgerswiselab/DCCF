@@ -1,4 +1,4 @@
-# DCCF
+# Deconfounded Causal Collaborative Filtering
 
 ## Introduction
 This repository includes the implementation for Deconfounded Causal Collaborative Filtering
