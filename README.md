@@ -12,7 +12,7 @@ Environment requirements can be found in `./requirement.txt`
 
 ## Datasets
   
-- **Electronics** and **CDs and Vinyl**: The origin dataset can be found [here](https://nijianmo.github.io/amazon/index.html.). 
+- **Electronics** and **CDs and Vinyl**: The origin dataset can be found [here](https://nijianmo.github.io/amazon/index.html). 
 
 - **Yelp**: The origin dataset can be found [here](https://www.yelp.com/dataset).
 
