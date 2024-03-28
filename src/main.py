@@ -34,12 +34,7 @@ def main():
                              help='Choose runner')
     init_parser.add_argument('--data_processor', type=str, default='DataProcessor',
                              help='Choose runner')
-    init_parser.add_argument('--counterfactual_constraint', type=int, default=0,
-                             help='With counterfactual constraint or not')
     init_args, init_extras = init_parser.parse_known_args()
-    
-    if init_args.counterfactual_constraint == 2:
-        return ContinuousCCF(init_args)
 
     # choose data_loader
     data_loader_name = eval(init_args.data_loader)
